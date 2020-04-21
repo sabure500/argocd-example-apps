@@ -8,5 +8,5 @@ spec:
       paths:
       - path: /*
         backend:
-          serviceName: frontend
+          serviceName: guestbook-ui
           servicePort: 80
